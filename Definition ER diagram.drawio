@@ -1,0 +1,334 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:145.0) Gecko/20100101 Firefox/145.0" version="28.2.9">
+  <diagram name="Page-1" id="s6iBHtShj7Claxhu1Eml">
+    <mxGraphModel dx="1588" dy="1638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-16" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-17" value="&lt;div&gt;Weak entity&lt;/div&gt;" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="150" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-18" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-19" value="Key attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="40" y="330" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-20" value="Weak key attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="420" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-21" value="Derived attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="510" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-22" value="Multi-value attribute" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="35" y="595" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-23" value="Associative&#xa;Entity" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="20" y="690" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-24" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="30" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-25" value="Identifying relationship" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="20" y="870" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-26" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="999.6" as="sourcePoint" />
+            <mxPoint x="180" y="999.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-34" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="1179.6" as="sourcePoint" />
+            <mxPoint x="180" y="1179.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-35" value="" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-34">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-41" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="1089.6" as="sourcePoint" />
+            <mxPoint x="180" y="1089.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-42" value="" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-41">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-49" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="80" as="sourcePoint" />
+            <mxPoint x="280" y="80.36" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-50" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="169.59999999999997" as="sourcePoint" />
+            <mxPoint x="280" y="169.95999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-53" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="40" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-51" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-53">
+          <mxGeometry width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-52" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&lt;u&gt;Entiteit&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Een object of concept met betekenis binnen het systeem.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;strong data-start=&quot;252&quot; data-end=&quot;266&quot;&gt;Voorbeeld:&lt;/strong&gt;&lt;code data-start=&quot;267&quot; data-end=&quot;276&quot;&gt;Student&lt;/code&gt;, &lt;code data-start=&quot;278&quot; data-end=&quot;286&quot;&gt;Docent&lt;/code&gt;.&lt;/div&gt; " style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-53">
+          <mxGeometry x="10" y="10" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-55" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="259.59999999999997" as="sourcePoint" />
+            <mxPoint x="280" y="259.96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-56" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="349.6" as="sourcePoint" />
+            <mxPoint x="280" y="349.96000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-57" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="440" as="sourcePoint" />
+            <mxPoint x="280" y="440.36" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-58" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="529.6" as="sourcePoint" />
+            <mxPoint x="280" y="529.96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-59" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="619.6" as="sourcePoint" />
+            <mxPoint x="280" y="619.96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-60" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="719.5999999999999" as="sourcePoint" />
+            <mxPoint x="280" y="719.96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-61" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="819.6" as="sourcePoint" />
+            <mxPoint x="280" y="819.9600000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-62" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="909.5999999999999" as="sourcePoint" />
+            <mxPoint x="280" y="909.96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-63" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="999.6" as="sourcePoint" />
+            <mxPoint x="280" y="999.9600000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-64" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1089.6" as="sourcePoint" />
+            <mxPoint x="280" y="1089.96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-65" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1179.6000000000001" as="sourcePoint" />
+            <mxPoint x="280" y="1179.96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-82" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="220" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-83" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-82">
+          <mxGeometry width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-84" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Attribuut&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Een eigenschap van een entiteit.&lt;/div&gt;&lt;br&gt;&lt;strong data-start=&quot;510&quot; data-end=&quot;524&quot;&gt;Voorbeeld:&lt;/strong&gt; &lt;code data-start=&quot;525&quot; data-end=&quot;531&quot;&gt;Naam&lt;/code&gt;, &lt;code data-start=&quot;533&quot; data-end=&quot;543&quot;&gt;Leeftijd&lt;/code&gt; van &lt;code data-start=&quot;548&quot; data-end=&quot;557&quot;&gt;Student&lt;/code&gt;." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-82">
+          <mxGeometry x="10" y="13.333333333333336" width="420" height="53.33333333333334" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-85" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="310" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-86" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-85">
+          <mxGeometry width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-87" value="&lt;b&gt;&lt;u&gt;Sleutel attribuut&lt;/u&gt;&lt;/b&gt;&lt;div&gt;Een uniek kenmerk dat een entiteit identificeert.&lt;/div&gt;&lt;br&gt;&lt;strong data-start=&quot;642&quot; data-end=&quot;656&quot;&gt;Voorbeeld:&lt;/strong&gt; &lt;code data-start=&quot;657&quot; data-end=&quot;669&quot;&gt;Student_ID&lt;/code&gt;." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-85">
+          <mxGeometry x="10" y="13.333333333333336" width="420" height="53.33333333333334" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-88" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="400" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-89" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-88">
+          <mxGeometry width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-90" value="&lt;b&gt;&lt;u&gt;Zwak sleutel attribuut&lt;/u&gt;&lt;/b&gt;&lt;div&gt;Een gedeeltelijke sleutel die pas uniek wordt &lt;strong data-start=&quot;753&quot; data-end=&quot;795&quot;&gt;met de sleutel van een andere entiteit&lt;/strong&gt;.&lt;/div&gt;&lt;br&gt;&lt;strong data-start=&quot;799&quot; data-end=&quot;813&quot;&gt;Voorbeeld:&lt;/strong&gt; &lt;code data-start=&quot;814&quot; data-end=&quot;833&quot;&gt;Afleveringsnummer&lt;/code&gt; binnen één &lt;code data-start=&quot;845&quot; data-end=&quot;857&quot;&gt;Bestelling&lt;/code&gt;." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-88">
+          <mxGeometry x="10" y="13.333333333333336" width="420" height="53.33333333333334" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-91" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="490" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-92" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-91">
+          <mxGeometry width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-93" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Afgeleid attribuut&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Een attribuut dat kan worden &lt;strong data-start=&quot;923&quot; data-end=&quot;955&quot;&gt;afgeleid uit andere gegevens&lt;/strong&gt;.&lt;/div&gt;&lt;br&gt;&lt;strong data-start=&quot;959&quot; data-end=&quot;973&quot;&gt;Voorbeeld:&lt;/strong&gt; &lt;code data-start=&quot;974&quot; data-end=&quot;984&quot;&gt;Leeftijd&lt;/code&gt; kan afgeleid worden uit &lt;code data-start=&quot;1009&quot; data-end=&quot;1024&quot;&gt;Geboortedatum&lt;/code&gt;." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-91">
+          <mxGeometry x="10" y="13.333333333333336" width="420" height="53.33333333333334" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-100" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="580" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-101" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-100">
+          <mxGeometry width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-102" value="&lt;b&gt;&lt;u&gt;Attribuut met meerdere waarden&lt;/u&gt;&lt;/b&gt;&lt;div&gt;Een attribuut dat &lt;strong data-start=&quot;1083&quot; data-end=&quot;1103&quot;&gt;meerdere waarden&lt;/strong&gt; kan hebben.&lt;/div&gt;&lt;br&gt;&lt;strong data-start=&quot;1118&quot; data-end=&quot;1132&quot;&gt;Voorbeeld:&lt;/strong&gt; &lt;code data-start=&quot;1133&quot; data-end=&quot;1152&quot;&gt;Telefoonnummer(s)&lt;/code&gt; van een &lt;code data-start=&quot;1161&quot; data-end=&quot;1170&quot;&gt;Student.&lt;/code&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-100">
+          <mxGeometry x="10" y="13.333333333333336" width="420" height="53.33333333333334" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-103" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="670" width="440" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-104" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-103">
+          <mxGeometry width="440" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-105" value="&lt;b&gt;&lt;u&gt;Associatief attribuut&lt;/u&gt;&lt;/b&gt;&lt;br&gt;Een entiteit die ontstaat uit een &lt;strong data-start=&quot;1242&quot; data-end=&quot;1283&quot;&gt;relatie tussen twee andere entiteiten&lt;/strong&gt; met eigen attributen.&lt;br data-start=&quot;1305&quot; data-end=&quot;1308&quot;&gt;&lt;br&gt;&lt;strong data-start=&quot;1308&quot; data-end=&quot;1322&quot;&gt;Voorbeeld:&lt;/strong&gt; &lt;code data-start=&quot;1323&quot; data-end=&quot;1337&quot;&gt;Inschrijving&lt;/code&gt; tussen &lt;code data-start=&quot;1345&quot; data-end=&quot;1354&quot;&gt;Student&lt;/code&gt; en &lt;code data-start=&quot;1358&quot; data-end=&quot;1366&quot;&gt;Cursus&lt;/code&gt;, met attribuut &lt;code data-start=&quot;1382&quot; data-end=&quot;1389&quot;&gt;Datum&lt;/code&gt;." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-103">
+          <mxGeometry x="10" y="16.66666666666667" width="420" height="66.66666666666669" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-106" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="780" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-107" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-106">
+          <mxGeometry width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-108" value="&lt;b&gt;&lt;u&gt;Relatie&lt;/u&gt;&lt;/b&gt;&lt;div&gt;Een &lt;strong data-start=&quot;1425&quot; data-end=&quot;1439&quot;&gt;verbinding&lt;/strong&gt; tussen entiteiten.&lt;/div&gt;&lt;br&gt;&lt;strong data-start=&quot;1461&quot; data-end=&quot;1475&quot;&gt;Voorbeeld:&lt;/strong&gt; &lt;code data-start=&quot;1476&quot; data-end=&quot;1485&quot;&gt;Student&lt;/code&gt; &lt;strong data-start=&quot;1486&quot; data-end=&quot;1495&quot;&gt;volgt&lt;/strong&gt; &lt;code data-start=&quot;1496&quot; data-end=&quot;1504&quot;&gt;Cursus&lt;/code&gt;." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-106">
+          <mxGeometry x="10" y="13.333333333333332" width="420" height="53.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-109" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="870" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-110" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-109">
+          <mxGeometry width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-111" value="&lt;b&gt;&lt;u&gt;Identificerende relatie&lt;/u&gt;&lt;/b&gt;&lt;br&gt;Een relatie die een &lt;strong data-start=&quot;1568&quot; data-end=&quot;1597&quot;&gt;weak entity identificeert&lt;/strong&gt;.&lt;br data-start=&quot;1598&quot; data-end=&quot;1601&quot;&gt;&lt;br&gt;&lt;strong data-start=&quot;1601&quot; data-end=&quot;1615&quot;&gt;Voorbeeld:&lt;/strong&gt; &lt;code data-start=&quot;1616&quot; data-end=&quot;1628&quot;&gt;Afbetaling&lt;/code&gt; wordt geïdentificeerd door de &lt;code data-start=&quot;1659&quot; data-end=&quot;1667&quot;&gt;Lening&lt;/code&gt;." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-109">
+          <mxGeometry x="10" y="13.333333333333336" width="420" height="53.33333333333334" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-115" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="960" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-116" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-115">
+          <mxGeometry width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-117" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Enkelvoudige rechte lijn&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Normale relatie (niet-identificerend).&lt;/div&gt;&lt;div&gt;- De entiteit &lt;strong data-start=&quot;453&quot; data-end=&quot;482&quot;&gt;kan onafhankelijk bestaan&lt;/strong&gt;.&lt;/div&gt;&lt;div&gt;&lt;strong data-start=&quot;486&quot; data-end=&quot;500&quot;&gt;- Voorbeeld&lt;code&gt;:&amp;nbsp;&lt;/code&gt;&lt;/strong&gt;&lt;code data-start=&quot;503&quot; data-end=&quot;528&quot;&gt;Docent — geeft — Cursus&lt;/code&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Een docent kan bestaan zonder een cursus.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-115">
+          <mxGeometry x="10" y="10" width="420" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-118" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="1140" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-119" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-118">
+          <mxGeometry width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-120" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Gestippelde lijn&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;strong data-start=&quot;907&quot; data-end=&quot;941&quot;&gt;Afgeleide of optionele relatie&lt;/strong&gt; – wordt niet altijd direct opgeslagen of is optioneel.&lt;/div&gt;&lt;div&gt;&lt;strong data-start=&quot;999&quot; data-end=&quot;1013&quot;&gt;- Voorbeeld:&lt;/strong&gt;&lt;code data-start=&quot;1016&quot; data-end=&quot;1057&quot;&gt;&amp;nbsp;Leeftijd ⋯ afgeleid_van ⋯ Geboortedatum&lt;/code&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- De leeftijd is afgeleid, niet opgeslagen in de database.&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-118">
+          <mxGeometry x="10" y="13.333333333333332" width="420" height="53.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-121" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="1230" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-122" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-121">
+          <mxGeometry width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-123" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;1&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Eén instantie van de ene entiteit is gekoppeld aan &lt;strong data-start=&quot;1211&quot; data-end=&quot;1227&quot;&gt;maximaal één&lt;/strong&gt; van de andere.&lt;br&gt;&lt;strong data-start=&quot;1245&quot; data-end=&quot;1259&quot;&gt;Voorbeeld:&lt;/strong&gt;&lt;code data-start=&quot;1262&quot; data-end=&quot;1271&quot;&gt;&amp;nbsp;Student&lt;/code&gt; —1— &lt;code data-start=&quot;1276&quot; data-end=&quot;1292&quot;&gt;Studentenkaart&lt;/code&gt;&lt;br data-start=&quot;1292&quot; data-end=&quot;1295&quot;&gt;- Elke student heeft maar één kaart.&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-121">
+          <mxGeometry x="10" y="13.333333333333332" width="420" height="53.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-79" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="130" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-80" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-79">
+          <mxGeometry width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-81" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Zwakke entiteit&lt;/u&gt;&lt;/b&gt;&lt;br&gt;Een entiteit die &lt;strong data-start=&quot;334&quot; data-end=&quot;367&quot;&gt;afhankelijk is van een andere&lt;/strong&gt; om te bestaan.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;strong data-start=&quot;385&quot; data-end=&quot;399&quot;&gt;Voorbeeld:&lt;/strong&gt; &lt;code data-start=&quot;400&quot; data-end=&quot;412&quot;&gt;Afbetaling&lt;/code&gt; hoort bij een specifieke &lt;code data-start=&quot;438&quot; data-end=&quot;446&quot;&gt;Lening&lt;/code&gt;." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-79">
+          <mxGeometry x="10" y="11.666666666666666" width="420" height="46.666666666666664" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-153" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="1050" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-154" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-153">
+          <mxGeometry width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-155" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Dubbele lijn&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;strong data-start=&quot;625&quot; data-end=&quot;648&quot;&gt;Totale participatie&lt;/strong&gt; – de entiteit &lt;strong data-start=&quot;663&quot; data-end=&quot;681&quot;&gt;moet deelnemen&lt;/strong&gt; aan de relatie.&lt;/div&gt;&lt;div&gt;- Wordt vaak gebruikt bij &lt;strong data-start=&quot;726&quot; data-end=&quot;743&quot;&gt;weak entities&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;-&amp;nbsp;&lt;/strong&gt;&lt;strong data-start=&quot;747&quot; data-end=&quot;761&quot;&gt;Voorbeeld:&amp;nbsp;&lt;/strong&gt;&lt;code data-start=&quot;764&quot; data-end=&quot;797&quot;&gt;Afbetaling ═ hoort_bij ═ Lening&lt;/code&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Elke afbetaling hoort verplicht bij een lening&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-153">
+          <mxGeometry x="10" y="10" width="420" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-158" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="1269.68" as="sourcePoint" />
+            <mxPoint x="180" y="1269.68" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-159" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-158">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-161" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="1320" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-162" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-161">
+          <mxGeometry width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-163" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;N&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Eén instantie van de ene entiteit is gekoppeld aan &lt;strong data-start=&quot;1425&quot; data-end=&quot;1437&quot;&gt;meerdere&lt;/strong&gt; van de andere.&lt;br&gt;&lt;strong data-start=&quot;1455&quot; data-end=&quot;1469&quot;&gt;Voorbeeld:&amp;nbsp;&lt;/strong&gt;&lt;code data-start=&quot;1472&quot; data-end=&quot;1480&quot;&gt;Docent&lt;/code&gt; —N— &lt;code data-start=&quot;1485&quot; data-end=&quot;1493&quot;&gt;Cursus&lt;/code&gt;&lt;br&gt;- Eén docent kan meerdere cursussen geven.&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-161">
+          <mxGeometry x="10" y="13.333333333333332" width="420" height="53.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-167" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1269.68" as="sourcePoint" />
+            <mxPoint x="280" y="1270.04" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-168" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="1360" as="sourcePoint" />
+            <mxPoint x="180" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-169" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-168">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-170" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1359.68" as="sourcePoint" />
+            <mxPoint x="280" y="1360.04" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-171" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="1449.55" as="sourcePoint" />
+            <mxPoint x="180" y="1449.55" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-172" value="M" style="resizable=0;html=1;whiteSpace=wrap;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-171">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-173" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-171">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-174" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="1410" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-175" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-174">
+          <mxGeometry width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-176" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;M:N&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Beide entiteiten kunnen &lt;strong data-start=&quot;1615&quot; data-end=&quot;1639&quot;&gt;meerdere koppelingen&lt;/strong&gt; hebben.&lt;br&gt;&lt;strong data-start=&quot;1650&quot; data-end=&quot;1664&quot;&gt;Voorbeeld:&lt;/strong&gt;&lt;code data-start=&quot;1667&quot; data-end=&quot;1676&quot;&gt;&amp;nbsp;Student&lt;/code&gt; —M:N— &lt;code data-start=&quot;1683&quot; data-end=&quot;1691&quot;&gt;Cursus&lt;/code&gt;&lt;br&gt;- Studenten volgen meerdere cursussen, en cursussen hebben meerdere studenten.&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="CqfBYrMuzfgxQ9g6kaMY-174">
+          <mxGeometry x="10" y="13.333333333333332" width="420" height="53.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="CqfBYrMuzfgxQ9g6kaMY-177" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1449.68" as="sourcePoint" />
+            <mxPoint x="280" y="1450.04" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
